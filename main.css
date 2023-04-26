@@ -24,7 +24,7 @@ body{
 	height: 1000px;
 	margin: 100px auto;
 	background: var(--white);
-	box-shadow: 5px 21px 20px 20px #3d3f4238;
+	box-shadow: 5px 21px 20px 20px #7b848f;
 }
 .left-section{
 	background: var(--black);
@@ -198,7 +198,7 @@ Text.sch{
     content: '';
     display: block;
     background: var(--blue);
-    width: 80%;
+    width: 90%;
     height: 100%;
     border-radius: 9px;
 }
@@ -228,7 +228,7 @@ Text.sch{
     content: '';
     display: block;
     background: var(--blue);
-    width: 80%;
+    width: 75%;
     height: 100%;
     border-radius: 9px;
 }
@@ -256,4 +256,7 @@ Text.sch{
 	margin-top: 25px;
     width: 45px;
     margin-right: 45px;
+}
+text.Style{
+ font-family:Arial, Helvetica, sans-serif
 }
